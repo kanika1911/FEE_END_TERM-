@@ -1,0 +1,17 @@
+{
+  "data": [
+    {
+      "fullname": "admin",
+      "email": "admin@gmail.com",
+      "username": "admin",
+      "userpassword": "admin",
+      "id": 0
+    },
+    {
+      "fullname": "kka",
+      "email": "",
+      "username": "",
+      "id": 1
+    }
+  ]
+}

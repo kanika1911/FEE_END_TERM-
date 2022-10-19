@@ -1,0 +1,32 @@
+.container {
+ 
+  border-top: 4px solid white;
+}
+
+.navbar {
+  list-style-type: none;
+  margin-top: 30px;
+  overflow: hidden;
+}
+
+.nav-item {
+  
+  float:left;
+  padding-top: 23px;
+}
+
+.nav-link {
+  color: whitesmoke;
+  font-size: 1.5rem;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  margin-right: 40px;
+  text-decoration: none;
+}
+
+.logoimg {
+  margin-left: 1030px;
+  display: inline;
+  height: 80px;
+  width: 100px;
+}
